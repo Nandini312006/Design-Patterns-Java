@@ -1,4 +1,4 @@
-package adapter;
+Spackage adapter;
 
 public class PhonePeService {
     public void doPayment(int amount, String clientId) {
